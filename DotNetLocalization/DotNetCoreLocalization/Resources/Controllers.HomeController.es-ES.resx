@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Body" xml:space="preserve">
+    <value>India, oficialmente conocida como la República de la India, es un país en el sur de Asia. Es el séptimo país más grande por área terrestre, el segundo país más poblado y la democracia más poblada del mundo. La India es conocida por su rica herencia cultural, su geografía diversa y sus tradiciones vibrantes.
+
+Geográficamente, la India está limitada por Pakistán al noroeste, China y Nepal al norte, Bután al noreste y Bangladesh y Myanmar al este. Al sur, está bordeada por el Océano Índico. El paisaje del país va desde las montañas del Himalaya en el norte hasta las playas tropicales del sur, con llanuras fértiles, desiertos y mesetas en medio.
+
+La India tiene una historia larga y rica, con evidencia de actividad humana que se remonta a la Edad de Piedra. Ha sido hogar de varias civilizaciones antiguas, incluida la Civilización del Valle del Indo, que floreció alrededor del 2500 a.C. A lo largo de su historia, la India ha sido influenciada por varias culturas, religiones e imperios, incluidos los imperios Maurya, Gupta, mogol y británico.
+
+Hoy, la India es una república democrática parlamentaria federal con una sociedad multiétnica y más de 2,000 grupos étnicos distintos, cada uno con su propia cultura, idioma y tradiciones. El país es conocido por su diversidad cultural, con festivales como Diwali, Holi y Eid que se celebran con gran fervor en todo el país.
+
+La economía de la India es una de las de más rápido crecimiento en el mundo, impulsada por sectores como la tecnología de la información, la agricultura, la manufactura y los servicios. También es un estado nuclear y tiene el tercer ejército permanente más grande del mundo.
+
+En cuanto a la gobernanza, la India está dividida en 28 estados y 8 territorios de la Unión, cada uno con su propio gobierno. Nueva Delhi es la capital, mientras que Mumbai es el centro financiero y comercial del país.
+
+En general, la India es una tierra de contrastes, donde la modernidad se encuentra con la tradición y las bulliciosas ciudades coexisten con el campo sereno. Su rica combinación de cultura, historia y belleza natural continúa fascinando a visitantes de todo el mundo.</value>
+  </data>
+  <data name="India" xml:space="preserve">
+    <value>Bienvenido a la India.</value>
+  </data>
+  <data name="LearnMore" xml:space="preserve">
+    <value>Aprender acerca de &lt;a href="https://en.wikipedia.org/wiki/India"&gt;India&lt;/a&gt; &lt;img src="data:image/png;base64,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"&gt;&lt;/img&gt;</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Localización</value>
+  </data>
+</root>

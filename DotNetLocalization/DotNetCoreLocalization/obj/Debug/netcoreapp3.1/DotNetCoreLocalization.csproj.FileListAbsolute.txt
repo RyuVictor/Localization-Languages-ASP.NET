@@ -1,0 +1,104 @@
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.exe
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.deps.json
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.runtimeconfig.json
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.runtimeconfig.dev.json
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.dll
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.pdb
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.Views.dll
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.Views.pdb
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.csproj.AssemblyReference.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.AssemblyInfoInputs.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.AssemblyInfo.cs
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.csproj.CoreCompileInputs.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.MvcApplicationPartsAssemblyInfo.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.RazorAssemblyInfo.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.RazorAssemblyInfo.cs
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreLocalization.StaticWebAssets.Manifest.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.TagHelpers.input.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.TagHelpers.output.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.RazorCoreGenerate.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.RazorTargetAssemblyInfo.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.RazorTargetAssemblyInfo.cs
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Views.pdb
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.dll
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.pdb
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.genruntimeconfig.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.csproj.CopyComplete
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\en-US\DotNetCoreLocalization.resources.dll
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Controllers.HomeController.en-US.resources
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.csproj.GenerateResource.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\en-US\DotNetCoreLocalization.resources.dll
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Views.Home.Index.en-US.resources
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\de-DE\DotNetCoreLocalization.resources.dll
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Controllers.HomeController.de-DE.resources
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Views.Home.Index.de-DE.resources
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\de-DE\DotNetCoreLocalization.resources.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.exe
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.deps.json
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.runtimeconfig.json
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.runtimeconfig.dev.json
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.pdb
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\de-DE\DotNetCoreLocalization.resources.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\en-US\DotNetCoreLocalization.resources.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.Views.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\DotNetCoreLocalization.Views.pdb
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Controllers.HomeController.de-DE.resources
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Controllers.HomeController.en-US.resources
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Views.Home.Index.de-DE.resources
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Views.Home.Index.en-US.resources
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.csproj.GenerateResource.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.AssemblyInfoInputs.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.AssemblyInfo.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.csproj.CoreCompileInputs.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.MvcApplicationPartsAssemblyInfo.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.RazorAssemblyInfo.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.RazorAssemblyInfo.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.sourcelink.json
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\de-DE\DotNetCoreLocalization.resources.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\en-US\DotNetCoreLocalization.resources.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.TagHelpers.input.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.TagHelpers.output.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.RazorCoreGenerate.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.RazorTargetAssemblyInfo.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.RazorTargetAssemblyInfo.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Views.pdb
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreLocalization.StaticWebAssets.Manifest.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreLocalization.StaticWebAssets.Pack.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.DotNetCoreLocalization.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.DotNetCoreLocalization.props
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.DotNetCoreLocalization.props
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.DotNetCoreLocalization.props
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.pdb
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.genruntimeconfig.cache
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.csproj.CopyComplete
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\mr-IN\DotNetCoreLocalization.resources.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Controllers.HomeController.mr-IN.resources
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\mr-IN\DotNetCoreLocalization.resources.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Views.Home.Index.mr-IN.resources
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LanguagePartial.cshtml.g.cs
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\es-ES\DotNetCoreLocalization.resources.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Views.Home.Index.es-ES.resources
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\es-ES\DotNetCoreLocalization.resources.dll
+D:\Bajaj training\Environment Setup\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Controllers.HomeController.es-ES.resources

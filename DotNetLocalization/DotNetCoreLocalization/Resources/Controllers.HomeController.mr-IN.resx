@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Body" xml:space="preserve">
+    <value>भारत, अधिकृत नावाने भारतीय गणराज्य म्हणून ओळखला जातो, हे दक्षिण एशिया येथील एक देश आहे. ह्याचे भूमि क्षेत्रानुसार सातवे किंवा सर्वाधिक जनसंख्येचे देश आहे आणि जगातील सर्वाधिक जनसंख्यांचे लोकशाही आहे. भारताच्या समृद्ध सांस्कृतिक विरासती, विविध भूगोल, आणि जीवंत परंपरा अशा कारणे म्हणजे भारत ओळखलं जातं.
+
+भौगोलिक दृष्ट्या, भारत पाकिस्तान नॉर्थवेस्टमध्ये, चीन आणि नेपाळ उत्तराखंडेत, भूटान उत्तरपूर्वेत, आणि बांग्लादेश आणि म्यानमार पूर्वात अशा सिमात असते. दक्षिणेत, ह्यात भारतीय महासागरात घातलं आहे. देशाची भूमितळ सेरीस, तटबंदी, आणि पठारांसह विविध असते.
+
+भारताला पत्ता असलेल्या इतिहासाने, पत्थर काळातून लक्षात आलेल्या मानव चालून सूची असताना त्याचा अतिशय लांब आणि भरपूर इतिहास आहे. ह्याला सगळ्यांत सुमारे २५०० वर्षांपूर्वी चालून आलेल्या सिव्हिलायझेशनची तर्कात येणारी सबव्हर्ब भारताच्या संप्रदायाचे एक अंश आहे. भारताच्या इतिहासात, विविध संस्कृती, धर्म, आणि साम्राज्यांचे परिणाम असून, त्यात मौर्य, गुप्त, मुघल, आणि ब्रिटिश साम्राज्य अशी विविधता असते.
+
+आज, भारत संघटनेशी जनशासनात्मक गणराज्य म्हणून एक नागरिक डेमोक्रेसी आहे आणि त्यातला अनेक लोक गट, वर्ण, आणि परंपरा अशी एका एका विचारधारा असून, प्रत्येकाच्या स्वत:च्या संस्कृती, भाषा, आणि परंपरा असतात. देशाची सांस्कृतिक विविधता, दिवाळी, होळी, आणि ईद या अशी पर्वांसह म्हणजेच खूप संख्येने सार्वजनिकरित्या उत्सव केले जातात.
+
+भारताची अर्थव्यवस्था तंत्रज्ञान, कृषी, वाढवणूक, आणि सेवांसह असलेल्या क्षेत्रांद्वारे प्रेरित आहे, ज्यामुळे ती जगातील सर्वात वाढतीची असलेली अर्थव्यवस्था आहे. ती एका नाभिकरणी राज्य आहे आणि जगातील तिस</value>
+  </data>
+  <data name="India" xml:space="preserve">
+    <value>भारतात आपलं स्वागत आहे</value>
+  </data>
+  <data name="LearnMore" xml:space="preserve">
+    <value>&lt;a href="https://en.wikipedia.org/wiki/India"&gt;भारत&lt;/a&gt; के बारे में और जानें &lt;img src = "data:image/jpeg;base64,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"&gt;&lt;/img&gt;</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>स्थानिकीकरण</value>
+  </data>
+</root>
